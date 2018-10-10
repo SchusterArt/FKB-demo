@@ -5,7 +5,7 @@ because it was created in Godot Alpha1 version 3.1 and can contain bugs and issu
 
 Controls is a classical wasd + E or RMB - boost speed (pressed), LShift - cruising speed, Q - stand by engines mode,LMB or space  - fire  ,R - look back , ESC - return to welcome screen, also Gamepad controls are added.
 
-Demo is MIT licensed ,all models,textures,scripts created by me for the community (except two screen space shaders from official Godot 3.0 demos (unused in this demo).
+All assets, models,textures,scripts created by me for the community (except two screen space shaders from official Godot 3.0 demos (unused in this demo).
 
 
 
