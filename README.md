@@ -1,5 +1,5 @@
 # FKB-demo 
-This is a small demo representing the flying arcade model (KinematicBody)
+This is a small demo representing the flying arcade model (KinematicBody).
 Demo does not represent the final quality of the Godot engine  (MIT licensed game engine http://godotengine.org)
 because it was created in Godot Alpha1 version 3.1 and can contain bugs and issues 
 Controls is classical wasd + E - boost speed (pressed), LShift - cruising speed, Q - stand by engines mode, ESC - return to welcome screen.
